@@ -9,7 +9,7 @@
 
 const Service = require('egg').Service;
 
-class {__pascalCaseName__} Service extends Service {
+class {__pascalCaseName__}Service extends Service {
   async getList() {
     const { ctx } = this;
 
