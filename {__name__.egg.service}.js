@@ -9,7 +9,7 @@
 
 const Service = require('egg').Service;
 
-class { __pascalCaseName__ } Service extends Service {
+class {__pascalCaseName__} Service extends Service {
   async getList() {
     const { ctx } = this;
 
@@ -17,4 +17,4 @@ class { __pascalCaseName__ } Service extends Service {
   }
 }
 
-module.exports = { __pascalCaseName__ }Service;
+module.exports = {__pascalCaseName__}Service;
